@@ -6,7 +6,6 @@
 
 ### Interface do Projeto da Live:
 
-![image-20210602232509548](C:\Users\anagu\AppData\Roaming\Typora\typora-user-images\image-20210602232509548.png)
 
 ### Passos de criação do projeto do Instrutor Kaique (com explicação):
 

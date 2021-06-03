@@ -93,7 +93,6 @@ Obs.: O adapter recebe os dados do Live para serem inseridos no item e depois no
 #### 6) Cria o RecyclerView na MainActivity;
 
 
-
 #### 7) Detectar clicks nos itens do RecyclerView. 
 
 

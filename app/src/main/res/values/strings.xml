@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">App Musica</string>
+    <string name="app_name">AnaMúsicas</string>
+    <string name="tv_title">Título do Vídeo</string>
+    <string name="tv_author">Autor do Vídeo</string>
 </resources>
